@@ -1,0 +1,4 @@
+framework module PushBots {
+  header "PushBots-Swift.h"
+  requires objc
+}
