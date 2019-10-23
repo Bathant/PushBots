@@ -42,7 +42,7 @@
 		521E74C4235C627E003CDADE = {
 			isa = PBXGroup;
 			children = (
-				521E74D0235C627E003CDADE /* PushNotficationSDK */,
+				521E74D0235C627E003CDADE /* PushBots */,
 				521E74CF235C627E003CDADE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -55,7 +55,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		521E74D0235C627E003CDADE /* PushNotficationSDK */ = {
+		521E74D0235C627E003CDADE /* PushBots */ = {
 			isa = PBXGroup;
 			children = (
 				521E74E5235C62AA003CDADE /* Helpers */,
@@ -63,7 +63,7 @@
 				521E74DF235C6295003CDADE /* Network Handler */,
 				521E74D2235C627E003CDADE /* Info.plist */,
 			);
-			path = PushNotficationSDK;
+			path = PushBots;
 			sourceTree = "<group>";
 		};
 		521E74DF235C6295003CDADE /* Network Handler */ = {
