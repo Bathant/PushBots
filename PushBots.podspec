@@ -12,5 +12,5 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "8.0"
   spec.source       = { :git => "https://github.com/Bathant/PushBots.git", :tag => 		  		"1.0.0" }
   spec.swift_version = "5.0" 
-  spec.source_files  = "Classes/*"
+  spec.source_files  = "PushBots"
 end
