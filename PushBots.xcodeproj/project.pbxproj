@@ -58,11 +58,9 @@
 		521E74D0235C627E003CDADE /* PushNotficationSDK */ = {
 			isa = PBXGroup;
 			children = (
-				521E74F1235C82B7003CDADE /* PushBots.swift */,
 				521E74E5235C62AA003CDADE /* Helpers */,
 				521E74E2235C629B003CDADE /* Requests */,
 				521E74DF235C6295003CDADE /* Network Handler */,
-				521E74D1235C627E003CDADE /* PushNotficationSDK.h */,
 				521E74D2235C627E003CDADE /* Info.plist */,
 			);
 			path = PushNotficationSDK;
@@ -79,7 +77,9 @@
 		521E74E2235C629B003CDADE /* Requests */ = {
 			isa = PBXGroup;
 			children = (
+				521E74F1235C82B7003CDADE /* PushBots.swift */,
 				521E74E3235C629B003CDADE /* PushNotificationRequests.swift */,
+				521E74D1235C627E003CDADE /* PushNotficationSDK.h */,
 			);
 			path = Requests;
 			sourceTree = "<group>";
